@@ -25,6 +25,12 @@ int main()
 	std::cout << "Goodbye. \n";
 	system("pause");
 	LockWorkStation();
+	system("pause");
+	std::cout << "LOLOLOLOLOL I LOCKED YOUR COMPUTER \n";
+	system("pause");
+	std::cout << "now die \n";
+	system("pause");
+	system("C:\\WINDOWS\\System32\\shutdown /s"); // so this is the part of the program where you get lol'd and punished for not looking at the code first.
 
 
 }
